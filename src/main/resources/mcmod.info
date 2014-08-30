@@ -1,0 +1,21 @@
+[
+{
+  "modid": "Housebuilder",
+  "name": "Housebuilder",
+  "description": "To help to build you dream house",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+  "mrcallmefreedom"
+  ],
+  "credits": "Lets hope this works.",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
